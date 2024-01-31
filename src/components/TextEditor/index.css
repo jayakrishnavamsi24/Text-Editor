@@ -1,0 +1,21 @@
+.bg-container {
+  background-color: #25262c;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-editor-container {
+  display: flex;
+  background-color: #1b1c22;
+  padding: 20px;
+  width: 80%;
+  height: 80vh;
+  max-width: 1000px;
+}
+
+.image-container {
+  width: 45%;
+  height: 100%;
+}
